@@ -34,13 +34,3 @@ a[j+1]=temp;
 }
 }
 }
-
-/*How mant elements?5          
-Enter unsorted list55
-66
-11
-44
-99 
-Original unsorted list is       55      66      11      44      99
-Sorted List:    11      44      55      66      99
-PS C:\Users\Students\OneDrive\Omkar Gunjal>*/
