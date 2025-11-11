@@ -82,8 +82,3 @@ int evaluate(char x,int op1,int op2)
   cout<<"\n Answer="<<val;
  return 0; 
 }
-/*
-PS C:\Users\Students\OneDrive\Omkar Gunjal> cd "c:\Users\Students\OneDrive\Omkar Gunjal\" ; if ($?) { g++ postfix_eval.cpp -o postfix_eval } ; if ($?) { .\postfix_eval }
-Enter postfix Expression :623+-382/+*2$3+
-Answer=52
-*/
